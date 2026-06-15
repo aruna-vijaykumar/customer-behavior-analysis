@@ -87,7 +87,7 @@ However, since discounts didn't meaningfully increase order value, avoid blanket
 discounting on clothing. Focus on full-price sell-through instead.
 
 **2. Target the top CLV quartile aggressively**
-The top 25% of customers (by estimated CLV) account for ~53% of total estimated
+The top 25% of customers (by estimated CLV) account for ~52% of total estimated
 lifetime value ($3.05M vs $5.92M total). A loyalty or early-access program
 specifically for this segment would protect and grow the most valuable customer base.
 
