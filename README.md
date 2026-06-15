@@ -68,7 +68,7 @@ Subscribed customers (1,053) had a marginally lower average spend ($59.49) compa
 Orders without discounts had a higher average order value ($60.13) vs discounted orders ($59.28), indicating discounts did not significantly drive higher spending.
 
 **Seasonal Trends**
-Fall was the strongest season ($60,018), followed closely by Spring and Winter. Summer was the weakest ($55,777).
+Fall was the strongest season ($60,018), followed closely by Winter and Spring. Summer was the weakest ($55,777).
 
 **Purchase Frequency**
 Revenue was nearly evenly distributed across all frequency segments, with "Every 3 Months" customers generating the most ($35,088).
